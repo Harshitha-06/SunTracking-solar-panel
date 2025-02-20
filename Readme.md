@@ -1,6 +1,7 @@
 # Sun Tracking Solar Panel System using Arduino
 
-![Sun Tracking Solar Panel](images/sun_tracking_system.jpg)
+![Sun Tracking Solar Panel](![Uploading image.png…]()
+)
 
 ## 📌 Introduction
 This project focuses on designing and implementing a sun-tracking solar panel system using Arduino. The system improves solar energy efficiency by adjusting the panel's position to follow the sun's movement throughout the day.
