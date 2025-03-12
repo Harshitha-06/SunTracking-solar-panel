@@ -1,68 +1,57 @@
-# Sun Tracking Solar Panel System using Arduino
+# IoT-Based Solar Tracking System
 
-![Sun Tracking Solar Panel]
-)
+## 📌 Overview
+The **IoT-Based Solar Tracking System** enhances solar panel efficiency by dynamically adjusting its position according to the sun's movement. The system uses **Arduino Uno, LDR sensors, and a servo motor** to optimize sunlight absorption and improve electricity generation.
 
-![image](https://github.com/user-attachments/assets/1321ea3f-328d-42cc-8625-392e64563557)
+## 🚀 Key Features
+- **Automated Sun Tracking** using LDR sensors.
+- **Arduino-Controlled Servo Motor** for precise movement.
+- **180° Panel Rotation** for maximum energy capture.
+- **Efficient Power Management** for continuous operation.
+- **Cost-Effective & Scalable Design** for easy integration.
+
+## 🛠️ System Components
+- **Arduino Uno** (Microcontroller)
+- **Light Dependent Resistors (LDRs)**
+- **Servo Motor**
+- **Solar Panel**
+- **10k Ohm Resistors**
+- **Jumper Wires & MDF Board**
+
+## 🔧 Modules
+1. **Sun Tracking System** - Detects sunlight intensity and adjusts panel angle.
+2. **Servo Motor Control** - Moves the panel based on sensor data.
+3. **Solar Panel Mounting** - Provides stability for optimized performance.
+4. **Power Supply Management** - Regulates energy flow to the system.
+
+## ⚙️ Specifications
+### **Hardware:**
+- Arduino Uno, Servo Motor, Solar Panel, LDR, Resistors, MDF Board
+### **Software:**
+- Arduino IDE, C/C++ Programming, Servo Library
+
+## 📊 Installation & Usage
+1. **Connect the components** as per the circuit diagram.
+2. **Upload the code** using Arduino IDE.
+3. **Power the system** and place it under sunlight.
+4. **Observe real-time tracking** as the panel follows the sun.
 
 
-## 📌 Introduction
-This project focuses on designing and implementing a sun-tracking solar panel system using Arduino. The system improves solar energy efficiency by adjusting the panel's position to follow the sun's movement throughout the day.
-
-## ✨ Features
-✅ Automatic tracking of the sun using light sensors (LDRs)
-✅ Dual-axis movement for maximum efficiency
-✅ Real-time adjustment using servo motors
-✅ Energy-efficient design
-✅ Easy integration with solar power systems
-
-## 🔧 Components Required
-- Arduino Uno
-- Light Dependent Resistors (LDRs)
-- Servo Motors (2x)
-- Solar Panel
-- Motor Driver Module
-- Power Supply
-- Resistors & Connecting Wires
-
-![Component Connection](images/component_connection.jpg)
-
-## ⚙️ Working Principle
-1. LDR sensors detect the sunlight intensity in different directions.
-2. Arduino processes the sensor data to determine the sun's position.
-3. The servo motors adjust the panel to maximize sunlight exposure.
-4. The system continuously tracks the sun throughout the day.
-
-## 🔌 Circuit Diagram
-![Circuit Diagram](images/circuit_diagram.jpg)
-
-## 🚀 Installation & Setup
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/sun-tracking-solar-panel.git
-   ```
-2. Connect LDRs to Arduino’s analog input pins.
-3. Attach servo motors to control the panel’s movement.
-4. Connect the solar panel to the system.
-5. Upload the Arduino code to the microcontroller using the Arduino IDE.
-6. Power the system and observe the automatic tracking in action.
-
-## 📌 Applications
-- Renewable energy optimization
-- Solar-powered IoT systems
-- Smart grid integration
-- Educational projects
 
 ## 🚀 Future Improvements
 - Integration with IoT for remote monitoring
 - Battery storage management
 - AI-based predictive tracking
 
-## 📜 License
-This project is licensed under the MIT License.
+## 📩 Contact
+For contributions or inquiries, feel free to connect with us!
 
-## 🔗 Reference
-For more details, visit: [Harshi ](https://circuitdigest.com/microcontroller-projects/building-your-own-sun-tracking-solar-panel-using-arduino)
+
+
+
+
+
+
 
 ![Final System](images/final_system.jpg)
 
