@@ -43,18 +43,5 @@ The **IoT-Based Solar Tracking System** enhances solar panel efficiency by dynam
 - Battery storage management
 - AI-based predictive tracking
 
-## 📩 Contact
-For contributions or inquiries, feel free to connect with us!
 
-
-
-
-
-
-
-
-![Final System](images/final_system.jpg)
-
----
-💡 **Contributions are welcome!** Feel free to fork this repository and enhance the system further. If you like this project, give it a ⭐️!
 
