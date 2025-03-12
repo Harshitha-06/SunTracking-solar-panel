@@ -10,7 +10,7 @@ The **IoT-Based Solar Tracking System** enhances solar panel efficiency by dynam
 - **Efficient Power Management** for continuous operation.
 - **Cost-Effective & Scalable Design** for easy integration.
 
-## 🛠️ System Components
+## 🛠️ High Level Architecture
 <img src="Architecture.png" alt="High Level Architecture" width="700" height="500">
 - **Arduino Uno** (Microcontroller)
 - **Light Dependent Resistors (LDRs)**
