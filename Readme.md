@@ -39,7 +39,9 @@ The **IoT-Based Solar Tracking System** enhances solar panel efficiency by dynam
 3. **Power the system** and place it under sunlight.
 4. **Observe real-time tracking** as the panel follows the sun.
 
-
+## 🎥 Video Demonstration
+Watch the working demo of our **IoT-Based Solar Tracking System** here:
+📺 [Project Video](https://drive.google.com/file/d/1me55jaOY3StewrANOeFzUPzZYwQGBKoY/view?usp=sharing)
 
 ## 🚀 Future Improvements
 - Integration with IoT for remote monitoring
